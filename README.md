@@ -1,2 +1,27 @@
 # awesome-deep-audio
-Deep Learning in Audio processing
+## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution
+
+
+### An open source implementation of WaveNet vocoder
+https://r9y9.github.io/wavenet_vocoder/
+
+### Tacotron2 and WaveNet
+https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/Tacotron2_and_WaveNet_text_to_speech_demo.ipynb
+
+### Tensorflow Wavenet
+https://github.com/ibab/tensorflow-wavenet
+
+### PyTorch wavenet
+https://github.com/vincentherrmann/pytorch-wavenet
+
+### Speech Synthesis Framework
+https://github.com/r9y9/nnmnkwii
+
+### WaveNet Keras 
+https://github.com/basveeling/wavenet
+
+### paddle paddle text to speech toolkit
+https://github.com/PaddlePaddle/Parakeet
+
+### WaveGlow
+https://github.com/NVIDIA/waveglow
