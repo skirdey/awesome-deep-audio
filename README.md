@@ -1,5 +1,5 @@
 # awesome-deep-audio
-## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution
+## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
 ### Audio Super Resolution
 https://kuleshov.github.io/audio-super-res/
