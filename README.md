@@ -1,6 +1,8 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution
 
+### Audio Super Resolution
+https://kuleshov.github.io/audio-super-res/
 
 ### An open source implementation of WaveNet vocoder
 https://r9y9.github.io/wavenet_vocoder/
