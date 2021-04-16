@@ -1,6 +1,11 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
+
+
+### PDF - Deep Learning for Audio by YUCHEN FAN, MATT POTOK, CHRISTOPHER SHROBA
+https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf
+
 ### Audio Super Resolution
 https://kuleshov.github.io/audio-super-res/
 
