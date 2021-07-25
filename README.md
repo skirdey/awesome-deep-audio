@@ -1,6 +1,8 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
+### - Deep voice cloning
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 
 ### PDF - Deep Learning for Audio by YUCHEN FAN, MATT POTOK, CHRISTOPHER SHROBA
