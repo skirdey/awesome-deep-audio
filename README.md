@@ -4,10 +4,11 @@
 
 ### GenerSpeech - impressive zero-shot style transfer for speech
 https://generspeech.github.io/
+
 https://github.com/Rongjiehuang/GenerSpeech
 
 
-### - Deep voice cloning
+### Deep voice cloning
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 
