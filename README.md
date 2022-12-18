@@ -1,6 +1,12 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
+
+### GenerSpeech - impressive zero-shot style transfer for speech
+https://generspeech.github.io/
+https://github.com/Rongjiehuang/GenerSpeech
+
+
 ### - Deep voice cloning
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
