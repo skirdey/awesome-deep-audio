@@ -3,6 +3,8 @@
 
 
 ### GenerSpeech - impressive zero-shot style transfer for speech
+(Dec 2022)
+
 https://generspeech.github.io/
 
 https://github.com/Rongjiehuang/GenerSpeech
