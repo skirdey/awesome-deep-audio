@@ -3,7 +3,7 @@
 
 ### NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates by Seungu Han, Junhyeok Lee @ MINDsLab Inc., SNU
 (2022)
-https://github.com/mindslab-ai/nuwave2 - the project pytorch and can be easily run locally, pre-trained models are also available for download. Compared to other audio upsampling solutions, NU-Wave 2 model has significantly less parameters with a similar performance. 
+https://github.com/mindslab-ai/nuwave2 - the project is written in pytorch and can be easily run locally, pre-trained models are also available for download. Compared to other audio upsampling solutions, NU-Wave 2 model has significantly less parameters with a similar performance. 
 
 
 ### GenerSpeech - impressive zero-shot style transfer for speech
