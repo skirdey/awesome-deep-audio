@@ -1,6 +1,10 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
+### Audio generation via diffusion models - PyTorch
+https://github.com/archinetai/audio-diffusion-pytorch
+
+
 ### NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates by Seungu Han, Junhyeok Lee @ MINDsLab Inc., SNU
 (2022)
 https://github.com/mindslab-ai/nuwave2 - the project is written in pytorch and can be easily run locally, pre-trained models are also available for download. Compared to other audio upsampling solutions, NU-Wave 2 model has significantly less parameters with a similar performance. 
