@@ -1,7 +1,7 @@
 # awesome-deep-audio
 ## Deep Learning in audio processing, speech synthesis, text to speech, audio super resolution, etc.
 
-### Audio generation via diffusion models - PyTorch
+### Audio generation via diffusion models - PyTorch (Jan 2023)
 https://github.com/archinetai/audio-diffusion-pytorch
 
 
